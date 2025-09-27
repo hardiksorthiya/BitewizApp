@@ -1,0 +1,61 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/font/Ambit-Black.ttf",
+      "sha1": "ff375b0fc83f347246809e51fc1914f59a5ba329"
+    },
+    {
+      "path": "src/assets/font/Ambit-BlackItalic.ttf",
+      "sha1": "9e8948c3ebfa4a8b9ee849a47ff11c6d49019720"
+    },
+    {
+      "path": "src/assets/font/Ambit-Bold.ttf",
+      "sha1": "b86eae28c870fa45ab386a91455385344c3dca9e"
+    },
+    {
+      "path": "src/assets/font/Ambit-BoldItalic.ttf",
+      "sha1": "2155f44cae60a22f5c3830a419df81c2e2fcec8e"
+    },
+    {
+      "path": "src/assets/font/Ambit-ExtraLight.ttf",
+      "sha1": "fe5a5e2ed34d2a470dade0aa87f8b277e550b77e"
+    },
+    {
+      "path": "src/assets/font/Ambit-ExtraLightItalic.ttf",
+      "sha1": "353a6383ba0610a27055d50ea0acb61f09e01e5b"
+    },
+    {
+      "path": "src/assets/font/Ambit-Italic.ttf",
+      "sha1": "806c6668c9de9e5d62c6f356c007e548bb764e0a"
+    },
+    {
+      "path": "src/assets/font/Ambit-Light.ttf",
+      "sha1": "d6607f3a9bff8c855968a45266cfca4190c2ad47"
+    },
+    {
+      "path": "src/assets/font/Ambit-LightItalic.ttf",
+      "sha1": "2bc5364962702bcf5790bdd7444e44226f041581"
+    },
+    {
+      "path": "src/assets/font/Ambit-Regular.ttf",
+      "sha1": "a833b64584342e821a17c85abf94b56aeeb5b0f6"
+    },
+    {
+      "path": "src/assets/font/Ambit-SemiBold.ttf",
+      "sha1": "8eae65139b8209ae90a582dc0fed9051d5e01e11"
+    },
+    {
+      "path": "src/assets/font/Ambit-SemiBoldItalic.ttf",
+      "sha1": "c425804b84c780e337ede60e7c3c0d8e16d55578"
+    },
+    {
+      "path": "src/assets/font/Ambit-Thin.ttf",
+      "sha1": "0fb84c6cfb5f46a4885ad806dbe2f14e3e8520e1"
+    },
+    {
+      "path": "src/assets/font/Ambit-ThinItalic.ttf",
+      "sha1": "9cd8d5b06582d8f85cce94d9f3236490c7b2d8e6"
+    }
+  ]
+}

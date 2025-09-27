@@ -1,0 +1,12 @@
+{
+  "languages": [
+    { "id": 1, "name": "English", "flag": "https://flagcdn.com/w20/gb.png" },
+    { "id": 2, "name": "Español", "flag": "https://flagcdn.com/w20/es.png" },
+    { "id": 3, "name": "中文", "flag": "https://flagcdn.com/w20/cn.png" },
+    { "id": 4, "name": "日本語", "flag": "https://flagcdn.com/w20/jp.png" },
+    { "id": 5, "name": "Français", "flag": "https://flagcdn.com/w20/fr.png" },
+    { "id": 6, "name": "Deutsch", "flag": "https://flagcdn.com/w20/de.png" },
+    { "id": 7, "name": "Italiano", "flag": "https://flagcdn.com/w20/it.png" },
+    { "id": 8, "name": "Português", "flag": "https://flagcdn.com/w20/pt.png" }
+  ]
+}
